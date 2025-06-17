@@ -1,9 +1,9 @@
 <table style="border-radius:0.25rem;width:100%;border:2px solid #eee;">
     <tr>
-        <td style="width:50%;">
+        <td width="50%">
             <img src="./itsme.jpg" style="display:block;width:100%;">
         </td>
-        <td style="width:50%;">
+        <td>
             <h1>Сапронов Илья</h1>
             <p>
                 <strong>⚙️ Fullstack-разработчик</strong><br>
