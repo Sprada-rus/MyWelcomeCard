@@ -1,22 +1,13 @@
-<table style="border-radius:0.25rem;width:100%;border:2px solid #eee;">
-    <tr>
-        <td width="50%">
-            <img src="./itsme.jpg" style="display:block;width:100%;">
-        </td>
-        <td>
-            <h1>Сапронов Илья</h1>
-            <p>
-                <strong>⚙️ Fullstack-разработчик</strong><br>
-                <strong>📍 Санкт-Петербург, Россия</strong>
-            </p>
-            <hr>
-            <p>
-                <img src="https://github.com/user-attachments/assets/9054638d-8b56-43c2-b094-f8e29f4a187c" width="15px">&nbsp;&nbsp;<a href="mailto:sappronov@gmail.com">sappronov@gmail.com</a><br>
-                <img src="https://github.com/user-attachments/assets/4c52b3cc-eaad-4380-ad77-9dfba788260a" width="15px">&nbsp;&nbsp;<a href="https://t.me/sprada">@sprada</a>
-            </p>
-        </td>
-    </tr>
-</table>
+<h1>Сапронов Илья</h1>
+<p>
+    <strong>⚙️ Fullstack-разработчик</strong><br>
+    <strong>📍 Санкт-Петербург, Россия</strong>
+</p>
+<hr>
+<p>
+    <img src="https://github.com/user-attachments/assets/9054638d-8b56-43c2-b094-f8e29f4a187c" width="15px">&nbsp;&nbsp;<a href="mailto:sappronov@gmail.com">sappronov@gmail.com</a><br>
+    <img src="https://github.com/user-attachments/assets/4c52b3cc-eaad-4380-ad77-9dfba788260a" width="15px">&nbsp;&nbsp;<a href="https://t.me/sprada">@sprada</a>
+</p>
 
 ---
 
