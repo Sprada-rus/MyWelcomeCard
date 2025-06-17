@@ -1,11 +1,10 @@
 <table style="border-radius:0.25rem;width:100%;border:2px solid #eee;">
     <tr>
-        <td style="width:50%">
+        <td style="width:50%;">
             <img src="./itsme.jpg" style="display:block;width:100%;">
         </td>
-        <td>
+        <td style="width:50%;">
             <h1>Сапронов Илья</h1>
-            <hr>
             <p>
                 <strong>⚙️ Fullstack-разработчик</strong><br>
                 <strong>📍 Санкт-Петербург, Россия</strong>
